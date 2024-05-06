@@ -1,0 +1,29 @@
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.exe
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.deps.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.runtimeconfig.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.pdb
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.csproj.AssemblyReference.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.AssemblyInfoInputs.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.AssemblyInfo.cs
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\refint\TP02.1_Garber_Szwarcbort.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.pdb
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.genruntimeconfig.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\ref\TP02.1_Garber_Szwarcbort.dll
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.AssemblyInfoInputs.cache
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.AssemblyInfo.cs
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.csproj.CoreCompileInputs.cache
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.dll
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\refint\TP02.1_Garber_Szwarcbort.dll
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.pdb
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.exe
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.deps.json
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.runtimeconfig.json
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.dll
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\bin\Debug\net7.0\TP02.1_Garber_Szwarcbort.pdb
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\TP02.1_Garber_Szwarcbort.genruntimeconfig.cache
+Z:\2024\programacion\TP02_1_Garber_Szwarcbort\TP02_1_Garber_Szwarcbort\obj\Debug\net7.0\ref\TP02.1_Garber_Szwarcbort.dll
